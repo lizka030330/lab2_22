@@ -1,0 +1,94 @@
+body {
+    background-color: rgb(197, 197, 205);
+    margin: 0;
+   }
+   
+   .text {
+      width: 80%;
+      max-width: 900px;
+      min-width: 800px;
+      height: 60vh; 
+      min-height: 900px;
+      margin: auto;
+   }
+   
+   #title_1 {
+      width:100%;
+      font-size: 40px;
+      text-align: center;
+      margin-top: 30px;
+      padding-bottom: 10px ;
+      color: rgb(29, 8, 84);
+   }
+
+   #title_2 {
+      width:100%;
+      font-size: 20px;
+      text-align: center;
+      padding-bottom: 15px;
+      color: rgb(61, 55, 86);
+   }
+
+   .block {
+       margin: 40px;
+       margin-left: auto;
+       margin-right: auto;
+    
+   }
+
+
+   .block1, .block2, .block3, .block4, .block5, .block6{
+       background-color: rgb(116, 116, 172);
+       width: 250px;
+       height: 200px;
+       margin-bottom: 10px;
+       margin-right: 5px;
+       border: solid thick rgb(62, 61, 61);
+       border-radius: 1em 
+   }
+   
+   .img {
+       width: 80px;
+       height: 95px;
+       margin-top: 20px;
+       margin-left: 90px;  
+      
+   }
+   #text1 {
+       text-align: center;
+       padding-top: 20px;
+       font-size: 25px;
+   }
+   #text2 {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 25px;
+   }
+   #text3  {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 25px;
+   }
+   #text4  {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 25px;
+   }
+   #text5  {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 25px;
+   }
+   #text6  {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 25px;
+   }
+
+   footer {
+       background-color: rgb(112, 112, 126);
+       width: 100%;
+       font-size: 20px;
+       padding: 15px 0;
+       text-align: center;
+   }
